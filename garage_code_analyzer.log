@@ -1,0 +1,50 @@
+2025-04-21 16:11:10,708 [INFO] Starting Garage Door Rolling Code Analysis Tool
+2025-04-21 16:11:10,708 [INFO] Mode: analyze
+2025-04-21 16:11:10,709 [INFO] Analyzing signals at 315.0 MHz
+2025-04-21 16:11:10,709 [INFO] Capturing live signals for 30 seconds
+2025-04-21 16:11:10,709 [INFO] Capturing signal for 30 seconds at 315.0 MHz
+2025-04-21 16:11:25,383 [INFO] Captured 60000000 samples
+2025-04-21 16:11:25,386 [INFO] Extracting codes from signal data
+2025-04-21 16:22:45,997 [DEBUG] Logging initialized
+2025-04-21 16:22:45,997 [INFO] Starting Garage Door Rolling Code Analysis Tool
+2025-04-21 16:22:45,997 [INFO] Mode: analyze
+2025-04-21 16:22:45,997 [DEBUG] Initialized SignalProcessor with sample_rate=2000000.0 Hz, gain=20.0
+2025-04-21 16:22:45,997 [DEBUG] Initialized FrequencyHandler with center_freq=315.0 MHz, bandwidth=2.0 MHz
+2025-04-21 16:22:45,998 [DEBUG] Initialized HackRFRollingCodeAnalyzer with code length: 32
+2025-04-21 16:22:45,998 [DEBUG] Initialized CodePredictor with 10 attempts
+2025-04-21 16:22:45,998 [INFO] Analyzing signals at 315.0 MHz
+2025-04-21 16:22:45,998 [INFO] Capturing live signals for 30 seconds
+2025-04-21 16:22:45,998 [INFO] Capturing signal for 30 seconds at 315.0 MHz
+2025-04-21 16:22:45,998 [DEBUG] Simulating signal capture
+2025-04-21 16:22:55,860 [INFO] Captured 60000000 samples
+2025-04-21 16:22:55,860 [ERROR] Error: 'RollingCodeAnalyzer' object has no attribute 'extract_codes'
+2025-04-21 16:22:55,861 [INFO] Operation completed
+2025-04-21 16:50:45,845 [INFO] Starting Garage Door Rolling Code Analysis Tool
+2025-04-21 16:50:45,846 [INFO] Mode: analyze
+2025-04-21 16:50:45,846 [INFO] Analyzing signals at 315.0 MHz
+2025-04-21 16:50:45,846 [INFO] Capturing live signals for 30 seconds
+2025-04-21 16:50:45,846 [INFO] Capturing signal for 30 seconds at 315.0 MHz
+2025-04-21 16:50:45,847 [INFO] Using simulation mode for signal capture
+2025-04-21 16:51:03,119 [ERROR] Error: 'RollingCodeAnalyzer' object has no attribute 'extract_codes'
+2025-04-21 16:51:03,120 [INFO] Operation completed
+2025-04-21 16:52:53,843 [INFO] Starting Garage Door Rolling Code Analysis Tool
+2025-04-21 16:52:53,843 [INFO] Mode: analyze
+2025-04-21 16:52:53,844 [INFO] Analyzing signals at 315.0 MHz
+2025-04-21 16:52:53,844 [INFO] Capturing live signals for 30 seconds
+2025-04-21 16:52:53,844 [INFO] Capturing signal for 30 seconds at 315.0 MHz
+2025-04-21 16:52:53,844 [INFO] Using simulation mode for signal capture
+2025-04-21 16:53:07,914 [INFO] Extracting rolling codes from 60000000 samples
+2025-04-21 16:53:07,914 [INFO] Processing signal data with 60000000 samples
+2025-04-21 16:56:10,092 [INFO] Starting Garage Door Rolling Code Analysis Tool
+2025-04-21 16:56:10,095 [INFO] Mode: analyze
+2025-04-21 16:56:10,095 [INFO] Analyzing signals at 315.0 MHz
+2025-04-21 16:56:10,095 [INFO] Capturing live signals for 30 seconds
+2025-04-21 16:56:10,096 [INFO] Capturing signal for 30 seconds at 315.0 MHz
+2025-04-21 16:56:10,096 [INFO] Using simulation mode for signal capture
+2025-04-21 16:56:27,192 [INFO] Extracting rolling codes from 60000000 samples
+2025-04-21 17:05:19,730 [INFO] Starting Garage Door Rolling Code Analysis Tool
+2025-04-21 17:05:19,730 [INFO] Mode: analyze
+2025-04-21 17:05:19,730 [INFO] Analyzing signals at 315.0 MHz
+2025-04-21 17:05:19,731 [INFO] Capturing live signals for 30 seconds
+2025-04-21 17:05:19,731 [INFO] Capturing signal for 30 seconds at 315.0 MHz
+2025-04-21 17:05:19,731 [INFO] Using simulation mode for signal capture
